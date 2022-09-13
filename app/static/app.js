@@ -18,19 +18,14 @@ function initMap() {
     map.data.addListener('click', (event) => {
         const category = event.feature.getProperty('category');
         const name = event.feature.getProperty('name');
-        const description = event.feature.getProperty('description');
         const hours = event.feature.getProperty('hours');
-        const phone = event.feature.getProperty('phone');
+        const marker_color = event.feature.getProperty('marker-color');
         const position = event.feature.getGeometry().get();
-        const content = `
-          <h2>${name}</h2><p>${description}</p>
-          <p><b>Open:</b> ${hours}<br/><b>Phone:</b> ${phone}</p>
-        `;
-
+        const content = `<h2>${name}</h2><p>${category}</p><p>Open: ${hours}</p>`;
         infoWindow.setContent(content);
         infoWindow.setPosition(position);
         infoWindow.setOptions({ pixelOffset: new google.maps.Size(0, -30) });
         infoWindow.open(map);
-    });
+    })
 
 }
