@@ -4,21 +4,436 @@
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.293916, 36.897118]
+        "coordinates": [-1.2841790771859498, 36.822373842380614]
       },
       "type": "Feature",
       "properties": {
-        "name": "Dennis Tycoon"
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé - Westminster",
+        "storeid": "01"
       }
     },
     {
       "geometry": {
         "type": "Point",
-        "coordinates": [-1.28339, 36.97081]
+        "coordinates": [-1.2825758463171544, 36.78522390741698]
       },
       "type": "Feature",
       "properties": {
-        "name": "Michelle Singalong"
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé Kileleshwa",
+        "storeid": "02"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2195348511108122, 36.88911357116368]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé -Thika Road Mall",
+        "storeid": "03"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2149519968352736, 36.84677616802839]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé Windsor",
+        "storeid": "04"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.1659122144882843, 36.96242634232737]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé Rubis Eastern Bypass",
+        "storeid": "05"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.225021882126148, 36.839841457481576]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 8:00PM",
+        "name": "Ridgeways Mall",
+        "storeid": "06"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2539125165357659, 36.82578376184935]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé Onn The way",
+        "storeid": "07"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2799662983594275, 36.77000485581839]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé Lavington",
+        "storeid": "08"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.203508764360626, 36.79494966179661]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé Two Rivers Mall",
+        "storeid": "09"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.293005799620398, 36.79279892883632]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Argwings Arcade",
+        "storeid": "10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2918561107704314, 36.81122644968494]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 7:00PM",
+        "name": "Artcaffé ACK Gardens",
+        "storeid": "11"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2699898178789542, 36.80267932421373]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé Riverside Drive",
+        "storeid": "12"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.286507354678437, 36.78957644398479]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffe Yaya",
+        "storeid": "13"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2825966035271659, 36.77030653017066]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé - Valley Arcade",
+        "storeid": "14"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.250777730035876, 36.803960216324036]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé - The Oval",
+        "storeid": "15"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.3121884379237756, 36.702256561916734]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé The Hub",
+        "storeid": "16"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.1694121256254537, 36.970342978007466]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé Shell Eastern Bypass",
+        "storeid": "17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2630563136936, 36.78886670792831]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé Rhapta Square",
+        "storeid": "18"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.4735912548488377, 36.95736986211134]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé - Kitengela Mall",
+        "storeid": "19"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2769998113154302, 36.821778330162076]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé kimathi",
+        "storeid": "20"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2930009708247387, 36.762518275704196]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé The Junction",
+        "storeid": "21"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2257364479761494, 36.878385863133616]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé Garden City",
+        "storeid": "22"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.3389119235602573, 36.76544620872783]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé Galleria",
+        "storeid": "23"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2602093218591799, 36.809611085902894]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé Gallant Mall",
+        "storeid": "24"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.3153886079618589, 36.80425932237683]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé Freedom Heights Mall",
+        "storeid": "25"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2839964884020671, 36.818848899624314]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé - Chester House",
+        "storeid": "26"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.309300896592653, 36.83396524049156]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé Capital Center",
+        "storeid": "27"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2998793342684352, 36.813211028858]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé Britam Tower",
+        "storeid": "28"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2998793342684352, 36.813211028858]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Restaurant",
+        "marker-color": "#322312",
+        "marker-symbol": "cafe",
+        "hours": "6:30AM - 11:00PM",
+        "name": "Artcaffé Britam Tower",
+        "storeid": "29"
       }
     }
   ]
