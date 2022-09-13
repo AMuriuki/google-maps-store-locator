@@ -21,7 +21,7 @@ function initMap() {
         const hours = event.feature.getProperty('hours');
         const marker_color = event.feature.getProperty('marker-color');
         const position = event.feature.getGeometry().get();
-        const content = `<h2>${name}</h2><p>${category}</p><p>Open: ${hours}</p>`;
+        const content = `<p>${category}</p><h2>${name}</h2><p>Open: ${hours}</p>`;
         infoWindow.setContent(content);
         infoWindow.setPosition(position);
         infoWindow.setOptions({ pixelOffset: new google.maps.Size(0, -30) });
