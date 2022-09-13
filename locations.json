@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.293916, 36.897118]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Dennis Tycoon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.28339, 36.97081]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Michelle Singalong"
+      }
+    }
+  ]
+}
