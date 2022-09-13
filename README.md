@@ -10,3 +10,20 @@ We'll also try identify the store location closest to a user-supplied starting p
 * Maps JavaScript API
 * Places API
 * Distance Matrix API 
+
+2. Clone the repo 
+```
+$ git clone https://github.com/AMuriuki/google-maps-store-locator.git
+```
+
+3. Navigate to the project's root directory, create virtual env & initialize it.
+```
+$ cd google-maps-store-locator
+$ python3 -m venv venv
+$ . venv/bin/activate
+```
+
+4. Install requirements
+```
+pip install -r requirements.txt
+```
